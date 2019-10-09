@@ -178,6 +178,7 @@
 - [Mayank Mani](https://github.com/MayankMani00)
 - [Rachita Bhagchandani](https://github.com/rachita18144)
 - [Khuzama Shahid](https://github.com/khuzama98)
+- [Nabeel Ahmed Khan](https://github.com/n4beel)
 - [Donna Vitan](https://github.com/donnavitan)
 - [Josh Deese](https://github.com/joshdeese)
 - [Prathik.S.Nayak](https://github.com/psn221b)
@@ -395,8 +396,8 @@
 - [Xiao W](https://github.com/fwinac)
 - [Keir](https://github.com/Keirxyz)
 - [SaurabhChugh]
--[Raghavi]
--[MartinC](https://github.com/TheMartinCrabtree)
+- [Raghavi]
+- [MartinC](https://github.com/TheMartinCrabtree)
 - [Sanjeev Penupala](https://github.com/spenpal2000)
 - [ChrisIIx](https://github.com/ChrisIIx)
 - [tusnolobov](https://github.com/tusnolobov)
@@ -433,7 +434,7 @@
 - [Pratik Anand](https://github.com/grufelous)
 - [Niki Jiandani](https://github.com/nikijiandani)
 - [Uneet Patel](https://github.com/Uneetpatel7)
--[Aryaan Lambe](https://github.com/aryaanlambe)
+- [Aryaan Lambe](https://github.com/aryaanlambe)
 - [sigmund](https://siggymc.deviantart.com)
 - [Jean-mrs](https://github.com/Jean-mrs)
 - [q_wright]
@@ -472,7 +473,7 @@
 - [igor](https://github.com/igorshiota)
 - [Adam Spindle](https://github.com/AdamSpindle)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
--.[Soumyadip Saha].(https://itzsoumyadip.github.io.)
+- [Soumyadip Saha].(https://itzsoumyadip.github.io.)
 - [Chris Yu](https://github.com/chrisayu321)
 - [John Manno](https://github.com/z0mby)
 - [BA] (https://github.com/ba)
